@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../DDA Elements/backgrounds"
+		},
+		{
+			"path": "../DDA Elements/gifs and photos"
+		},
+		{
+			"path": "../DDA Elements/swfs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Kenny DDA Project"
+	}
+}
